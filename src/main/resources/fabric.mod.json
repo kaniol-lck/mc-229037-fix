@@ -10,8 +10,9 @@
     "Hendrix-Shen"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/kaniol-lck/",
+    "sources": "https://github.com/kaniol-lck/mc-229037-fix",
+    "issues": "https://github.com/kaniol-lck/mc-229037-fix/issues"
   },
 
   "license": "CC0-1.0",
