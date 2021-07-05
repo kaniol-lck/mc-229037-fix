@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# mc-229037-fix 
 
-## Setup
+> [MC-229037](https://bugs.mojang.com/browse/MC-229037): Freeze when opening Folder from Minecraft
+> 
+> This issue may be specific to certain platforms, but could be really annoying.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod fixed it by disable Blocking IO of subprocess's error outputs.

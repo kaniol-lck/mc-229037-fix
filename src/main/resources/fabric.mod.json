@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "mc-229037-fix",
-  "description": "Fixed MC-229037 by disabling some error outputs",
+  "description": "Fixed MC-229037 by disabling some error outputs.",
   "authors": [
     "kaniol",
     "Hendrix-Shen"
