@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
-  "compatibilityLevel": "JAVA_16",
+  "package": "net.kaniol.mixin",
+  "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "UtilOSMixin"
   ],
   "injectors": {
     "defaultRequire": 1
